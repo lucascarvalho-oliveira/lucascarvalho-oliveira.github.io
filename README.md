@@ -5,7 +5,7 @@ Este projeto é uma página web simples e responsiva desenvolvida com **HTML** e
 
 ## Acesse a página:
 
-[pagina](https://carvalho484.github.io/)
+[pagina](https://lucascarvalho-oliveira.github.io/)
 
 ## Tecnologias utilizadas:
 
@@ -27,5 +27,6 @@ O objetivo deste projeto é criar uma página pessoal que:
 * Seções de apresentação, projetos e contato
 * Design responsivo para mobile e desktop
 * Links para minhas redes profissionais e GitHub
+
 
 
